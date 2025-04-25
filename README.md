@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saxenaharsh12
-- 👀 I’m Machine learning ethusist
+- 👀 I’m Machine learning enthusiast
 - 🌱 I’m currently learning Springboot ,Java
 - 💞️ I’m looking to collaborate on real-world projects that can leverage my skills in AI-ML 
 - 📫 How to reach me ...msitharsh12@gmail.com
