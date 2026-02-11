@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Saxenaharsh12
-- 👀 I’m Machine learning enthusiast
-- 🌱 I’m currently learning Springboot ,Java
+- 👀 Data Engineer at WNS
 - 💞️ I’m looking to collaborate on real-world projects that can leverage my skills in AI-ML 
 - 📫 How to reach me ...msitharsh12@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Experienced in developeing predictive Ml model pipelines and scalable AI powered solutions
+- ⚡ Former ML Intern @ DRDO and Indian oil corporation ltd.
 
 <!---
 Saxenaharsh12/Saxenaharsh12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
