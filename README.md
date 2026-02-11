@@ -16,42 +16,37 @@
 
 ## 💡 Tech Stack
 
-<table>
-<tr>
-<td><b>🚀 Programming</b></td>
-<td>
-Python • SQL • Java
-</td>
-</tr>
+## 💡 Tech Stack  
 
-<tr>
-<td><b>🗄️ Databases</b></td>
-<td>
-MySQL • PostgreSQL • SQL Server
-</td>
-</tr>
+### 🚀 Programming & Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-<tr>
-<td><b>⚙️ Data Engineering</b></td>
-<td>
-ETL Pipelines • Data Warehousing • Data Modeling • Workflow Automation
-</td>
-</tr>
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
 
-<tr>
-<td><b>📊 Data Science & ML</b></td>
-<td>
-Pandas • NumPy • Scikit-learn • TensorFlow • Keras • Matplotlib
-</td>
-</tr>
+### ⚙️ Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
 
-<tr>
-<td><b>🛠️ Tools</b></td>
-<td>
-Git • GitHub • VS Code • Jupyter • Linux
-</td>
-</tr>
-</table>
+### 📊 Data Science & ML
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+</p>
 
 ---
 
