@@ -1,40 +1,80 @@
-# Hi, I'm Harsh Saxena 👋  
-
-🚀 **Data Engineer at WNS** | AI/ML Enthusiast | Problem Solver  
-
-I am passionate about building scalable data systems and AI-driven solutions that solve real-world business problems. With hands-on experience in machine learning model development and production-grade data workflows, I enjoy transforming raw data into actionable insights.
+<h1 align="center">Hi 👋, I'm Harsh Saxena</h1>
+<h3 align="center">🚀 Data Engineer at WNS | AI/ML Enthusiast | Problem Solver</h3>
 
 ---
 
-## 💼 Professional Experience
-- 🏢 **Data Engineer – WNS**
-- 🤖 Former **Machine Learning Intern – DRDO**
-- 🛢️ Former **Data/ML Intern – Indian Oil Corporation Ltd.**
+## 👨‍💻 About Me
+
+- 🏢 Data Engineer at **WNS**
+- 🤖 Former ML Intern at **DRDO**
+- 🛢️ Former Data/ML Intern at **Indian Oil Corporation Ltd.**
+- 💡 Passionate about building scalable data systems & AI-powered solutions
+- 🤝 Open to collaborating on impactful AI/ML & Data Engineering projects  
+- 📫 Reach me at: **msitharsh12@gmail.com**
 
 ---
 
-## 🔍 What I Do
-- Build and optimize **data pipelines & ETL workflows**
-- Develop and deploy **predictive ML models**
-- Work with **large datasets** to extract business insights
-- Design scalable **AI-powered solutions**
+## 💡 Tech Stack
+
+<table>
+<tr>
+<td><b>🚀 Programming</b></td>
+<td>
+Python • SQL • Java
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+MySQL • PostgreSQL • SQL Server
+</td>
+</tr>
+
+<tr>
+<td><b>⚙️ Data Engineering</b></td>
+<td>
+ETL Pipelines • Data Warehousing • Data Modeling • Workflow Automation
+</td>
+</tr>
+
+<tr>
+<td><b>📊 Data Science & ML</b></td>
+<td>
+Pandas • NumPy • Scikit-learn • TensorFlow • Keras • Matplotlib
+</td>
+</tr>
+
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td>
+Git • GitHub • VS Code • Jupyter • Linux
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, SQL, Java  
-**Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
-**Data Engineering:** ETL, Data Pipelines, SQL Optimization  
-**Tools:** Git, VS Code, Jupyter, Power BI  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saxenaharsh12&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saxenaharsh12&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Let’s Collaborate
-I’m open to collaborating on impactful AI/ML and data engineering projects that create measurable value.
+## 📈 Contribution Graph
 
-📫 **Reach me at:** msitharsh12@gmail.com  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saxenaharsh12&theme=tokyo-night" />
+</p>
 
 ---
 
-⭐ *“Turning data into decisions and ideas into scalable systems.”*
+## 🌟 Let's Build Something Impactful
+
+Turning raw data into scalable systems and intelligent solutions.
+
+⭐ If you like my work, consider giving a star to my repositories!
 
