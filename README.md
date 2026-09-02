@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Data Scientist at **WNS**
+- 🏢 Data Scientist at **WNS- Capgemini**
 - 🤖 Former ML Intern at **DRDO**
 - 🛢️ Former Data/ML Intern at **Indian Oil Corporation Ltd.**
 - 💡 Passionate about building scalable data systems & AI-powered solutions
